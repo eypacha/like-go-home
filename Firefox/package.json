@@ -1,0 +1,9 @@
+{
+  "name": "likegohome",
+  "title": "Like Go Home",
+  "id": "likegohome@tomasrawski.com.ar",
+  "description": "Eliminates 'like' from Facebook. Lets talk with words!",
+  "author": "Tomas Rawski y Dolores Martin",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
