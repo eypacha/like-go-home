@@ -1,6 +1,8 @@
 # like-go-home
 Delete de Like from facebook.
 
+Plugins for Chrome and Firefox
+
 Dolores Martin & Tomas Rawski
 
 Developed by: Tomás Rawski
